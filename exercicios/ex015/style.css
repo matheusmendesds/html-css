@@ -1,0 +1,20 @@
+@charset "UTFR-8";
+
+body{
+    background-color: aqua;
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif; 
+    background-color: blue;
+}
+h2  {
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 20px; 
+    background-color: whitesmoke;
+}
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: 15px; 
+    color: black; 
+    text-align: justify; 
+}

@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+body {
+    background-color: aqua;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 500;
+}
+
+h1 {
+    font-size: medium;
+    font-style: normal;
+    font-weight: bold;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+
+p {
+    text-align: justify;
+}
+#principal {
+    font-size: 2em;
+    text-align: center;
+    background-color: azure;
+    font-style: normal;
+}
+
+.basico {
+    color: brown;
+    font-style: normal;
+    
+}
+
+.intermediario {
+    color: darkorchid;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.avancado {
+    color: darkgreen;
+}
