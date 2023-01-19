@@ -12,7 +12,7 @@
 
 h1 {
     color: white;
-    font: normal bolder 5em 'Passion One', Tahoma , sans-serif;
+    font: normal bolder 10vw 'Passion One', Tahoma , sans-serif;
     font-variant: small-caps;
     text-align: center;
     margin: auto;
@@ -21,15 +21,15 @@ h1 {
 }
 
 p {
-    font: normal normal 40px 'Sriracha' , helvetica , sans-serif ;
+    font: normal normal 3vw 'Sriracha' , helvetica , sans-serif ;
     color: black;
-    margin-left: 40px;
+    margin: 50px 0px 80px 50px;
 }
 
 header {
-    height: 150px;
     background-color: black;
     padding: 40px;
+    background-attachment: fixed;
 
 }
 
