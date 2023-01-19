@@ -12,10 +12,12 @@
 
 h1 {
     color: white;
-    font: normal bolder 120px 'Passion One', Tahoma , sans-serif;
+    font: normal bolder 5em 'Passion One', Tahoma , sans-serif;
     font-variant: small-caps;
     text-align: center;
     margin: auto;
+
+
 }
 
 p {
@@ -27,7 +29,7 @@ p {
 header {
     height: 150px;
     background-color: black;
-    padding: 50px;
+    padding: 40px;
 
 }
 
@@ -35,6 +37,22 @@ body {
     margin: auto;
 }
 
+#imagemum {
+    background: url('imagens/background001.jpg') right center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+    
+}
+
+#imagemdois {
+    background: url('imagens/background002.jpg') right center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+    
 footer {
     background-color: black;
     margin: auto;
