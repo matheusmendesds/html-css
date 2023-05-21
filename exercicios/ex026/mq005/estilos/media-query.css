@@ -3,7 +3,7 @@
 /* Vou fazer o menu hamburguinho aparecer apenas em dispositivos de telas menores 
 */
 
-@media screen and (min-width: 992px){
+@media screen and (min-width: 768px){
     i#burguer {
         display: none;
     }
